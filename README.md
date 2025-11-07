@@ -1,15 +1,14 @@
 <h1 align="center">Hellooooow 👋, I'm Vaiskiainen</h1>
 <h3 align="center">A Guy From Finland Who Is Passionate About Computer Sciense</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaiskiainen&label=Profile%20views&color=0e75b6&style=flat" alt="vaiskiainen" /> </p>
 
 - 🔭 I’m currently working on [Saukko, a discord modification for android](https://github.com/Vaiskiainen/Saukko)
 
 - 🌱 I’m currently learning **Typescript and kotlin**
 
-- 📫 How to reach me **@Vaiskiainen on discord**
+- 📫 Reach me: **@Vaiskiainen on discord**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My socials:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/vaiskiainen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vaiskiainen" height="30" width="40" /></a>
 </p>
