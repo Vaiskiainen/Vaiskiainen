@@ -14,6 +14,12 @@
 <a href="https://www.youtube.com/c/vaiskiainen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vaiskiainen" height="30" width="40" /></a>
 <a href="https://discord.gg/1205851726586970125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1205851726586970125" height="30" width="40" /></a>
 </p>
+
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Vaiskiainen&theme=dark&hide_border=true&border_radius=4.6&cache_seconds=86400" />
+</a>
+
 ---- Random Stats That Nobody Cares about ----
 
 
@@ -21,7 +27,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaiskiainen&show_icons=true&locale=en&layout=compact" alt="vaiskiainen" /></p>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Vaiskiainen&theme=dark&hide_border=true&border_radius=4.6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Vaiskiainen&theme=dark&hide_border=true&border_radius=4.6&cache_seconds=86400" />
 </a>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaiskiainen&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
