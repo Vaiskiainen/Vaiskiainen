@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaiskiainen&show_icons=true&locale=en&layout=compact" alt="vaiskiainen" /></p>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Vaiskiainen&theme=dark&hide_border=true&border_radius=4.6&cache_seconds=86400&include_all_commits=true" />
+  <img src="https://streak-stats.demolab.com?user=vaiskiainen&theme=dark&hide_border=true&border_radius=4.6&cache_seconds=86400&include_all_commits=true" />
 </a>
 
 
