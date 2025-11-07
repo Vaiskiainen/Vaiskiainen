@@ -20,6 +20,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaiskiainen&show_icons=true&locale=en&layout=compact" alt="vaiskiainen" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vaiskiainen&theme=dark&hide_border=true&border_radius=4.6" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Vaiskiainen&theme=dark&hide_border=true&border_radius=4.6" alt="GitHub Streak" />
+</a>
+
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaiskiainen&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
