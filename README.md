@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript and kotlin**
 
-- 📫 Reach me: **@Vaiskiainen on discord**
+- 📫 Reach me: **@Vaiskiainen. on discord**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
